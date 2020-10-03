@@ -1,6 +1,3 @@
-### Hi! Welcome to my Github Profile✨
+### Welcome to my Github Profile✨
 
-- 🔭 I’m currently working on ()
-- 🌱 I’m currently learning Python
-- ⚡ 
-
+🌱 I’m currently learning Python
